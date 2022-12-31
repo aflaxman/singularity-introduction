@@ -72,3 +72,5 @@ This provides us with some more useful information about the actual images store
 > ## Cache location
 > By default, Singularity uses `$HOME/.singularity/cache` as the location for the cache. You can change the location of the cache by setting the `SINGULARITY_CACHEDIR` environment variable to the cache location you want to use.
 {: .callout}
+
+TODO: include material and exercise about changing the location of the cache, since IHME cluster has limited space in home dir
